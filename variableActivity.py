@@ -13,10 +13,19 @@ graduate= False
 
 applecount= 56
 studentcount= 3
-optionaltravelinsurence=676767676767676767676767676767676767676767676767676767676767676
+optionaltravelinsurence= True
 bronzemembership= 1
-silvermembership=45
+silvermembership= 45
 goldmembership=89
 sprieprice= 90
 pepsiprice=790
 grapejuiceprice=890
+
+#variable naming coventions
+#we use naming conventions because we cannot have spaces in
+#variable names
+
+#camel case- when creating variable names with multiple words,
+#every new word begins with a capital letter
+#the reason why its called case is bc every new word
+#represents a hump
