@@ -29,3 +29,10 @@ grapejuiceprice=890
 #every new word begins with a capital letter
 #the reason why its called case is bc every new word
 #represents a hump
+
+
+#one source ai can get dat training from is chat gpt another on is gemini and another is meta
+#these three places trains it's ai to be better than before
+
+
+#  

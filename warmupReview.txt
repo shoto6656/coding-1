@@ -1,0 +1,15 @@
+the 4 data types we learned is
+
+
+string was the first
+the second one we learned was interior
+Boolean was the third one was the next
+the last one wo took time to learn is floats
+
+A code Reposittory is a digital space that we can create programs
+
+It is an input device because when you type the out pops up on the monitor 
+
+A container that contains almost everything
+
+We learned about camel case
