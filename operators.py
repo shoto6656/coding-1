@@ -28,3 +28,24 @@ print(10 < 2) # less than operator
 
 # 2 equal signs compare is something is the smae
 print ("jeremiah" == "jeremiah") #same as (false)
+print("book" == "book") # same as (false)
+print(2.0 == 2) # same as (true)
+# not equal is written with !=
+# this is to check and filter for values that are not
+# the same
+print(200 != 100) # true- these are not the same
+print(300 != 300) # false - these are not the same
+
+#logical operators - compares 2 conditions to chech if 
+#they are true or false
+# conditions + other perators
+#instead of symbols, we represent these with words :
+#and, or, not
+
+# and - checks if 2 conditions are true. if yes, the final
+#result is true
+print(3 > 1 and 100 == 50) # this would come out to be true
+
+# OR- checks if only 1 condition is true. if yes,
+#the final result will be true
+print(3 > 1 or 100 == 50)
