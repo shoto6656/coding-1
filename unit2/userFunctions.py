@@ -12,12 +12,12 @@
 #done step by step
 
 #function def syntax (how is it written)
-def elenring():
+def eldenring():
     print("gooding morning")
     name=input("whats your name")
     print("wlecome"+ name)
 
     # function invocation/ call
     #when we write functions name it will run the program
-    goodmornig()
+    goodmorning()
 
