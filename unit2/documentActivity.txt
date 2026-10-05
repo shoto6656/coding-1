@@ -1,0 +1,9 @@
+1. in your words describe, describe what documentation is?: Documentation is a way to keep notes somewhere or anything:
+2. If you were working on a game with a large team of developers, provide 3 reasons why having good documentation would be beneficial to building the game  
+Documentation would be good to use so can make sure I stay on track from where im at or anything I do.
+3. what"s the differnce between eternal and internal documatation
+External is like writing it down on a piece of paper or a note book while internal is storing it on the computer.
+4. Do you need to know how to code to read code documatation? brifly
+Explain why or why not
+You need to know it because you might want to build a game or it might be needed for a job that you might want 
+Knowing how to read code is great to know for many thing in ife.
