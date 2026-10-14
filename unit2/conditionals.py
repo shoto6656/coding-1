@@ -3,7 +3,7 @@
 # or conditions
 
 # conditional syntax (how it is written)
-bill_amount = int(input("please type in a bill tender (1,510): "))
+bill_amount = int(input("please type in a bill tender (1,5,10): "))
 # if usually indicates that something is possible option
 if bill_amount == 1:
         print("here are 4 quaters")
@@ -31,4 +31,53 @@ else:
 # addition, 2 will subtraction
 # 3 will do multiplacation
 
+def calculate_add():                    
+    print("program has: type in 2 nunmmbers to add")
+    num1= int(input())
+    num2= int(input())
+    print(num1 + num2)
+    print("program has ended")
 
+    # phase 2 of function: function call- actualy runs and does something
+calculate_add()
+
+def calculate_subtract():                    
+    print("program has: type in 2 nunmmbers to subtract")
+    num1= int(input())
+    num2= int(input())
+    print(num1 - num2)
+    print("program has ended")
+calculate_subtract()    
+          
+
+def calculate_multiply():                    
+    print("program has: type in 2 nunmmbers to multiply")
+    num1= int(input())
+    num2= int(input())
+    print(num1 * num2)
+    print("program has ended")
+calculate_multiply()    
+
+def calculate_divide():                    
+    print("program has: type in 2 nunmmbers to divide")
+    num1= int(input())
+    num2= int(input())
+    print(num1 / num2)
+    print("program has ended")
+calculate_divide()    
+
+def mainCalculater():
+    selection= input()
+    
+    if selection == 1:                                
+        calculate_add()
+    elif selection == 2:
+        calculate_subtract()
+    elif selection == 3:
+          calculate_multiply()
+    elif selection == 4:
+          calculate_divide()
+    else:
+        print('sorry somthing went wrong')
+                        
+          
