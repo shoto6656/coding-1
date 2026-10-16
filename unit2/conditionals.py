@@ -22,7 +22,7 @@ elif bill_amount == 100:
     print("sorry we do not accept 100s. please enter an accepted amount")     
 # else is always your last option
 else:
-    Print("Sorry that type of bill is not accepted")
+    print("Sorry that type of bill is not accepted")
 
 
 #create a calculater function that uses if/else lgic to allow the user
@@ -79,5 +79,33 @@ def mainCalculater():
           calculate_divide()
     else:
         print('sorry somthing went wrong')
-                        
-          
+
+def movieTicketPrice():
+    print("welcome to the movie theater . How old are you? ")
+    age = int(input())
+    if age < 7:
+        print("your ticket is $8.00")
+    elif age > 8 and age < 20:
+            print("your ticket is $12.00")
+    elif age > 21 and age < 60:
+         print("your ticket is $20.00")
+    elif age > 61:
+         print("your ticket is free")
+    else:
+            print("sorry invalid input")
+    
+            
+def Signed_permission_slip():
+    print("you can go on the trip . what is your gpa?")
+    GPA = int(input(What is your GPA))
+    if Signed_permission_slip == true:
+        print("Oki see your permission slipis signed")
+    elif GPA < 90:
+            print("your ticket is $12.00")
+    elif age > 21 and age < 60:
+         print("your ticket is $20.00")
+    elif age > 61:
+         print("your ticket is free")
+    else:
+            print("")
+   

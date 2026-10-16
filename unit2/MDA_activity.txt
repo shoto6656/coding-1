@@ -1,0 +1,3 @@
+Flappy bird is a game that use a bird. The aesthetics abouth the game is a small yellow that flys under,over, or through pipes.
+The mechanics of Flappy bird is that you use your dpace bar to up to navigate through the pipes
+when you do not click it he will go down and fall.
