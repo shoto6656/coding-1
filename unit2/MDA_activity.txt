@@ -1,3 +1,13 @@
 Flappy bird is a game that use a bird. The aesthetics abouth the game is a small yellow that flys under,over, or through pipes.
 The mechanics of Flappy bird is that you use your dpace bar to up to navigate through the pipes
 when you do not click it he will go down and fall.
+
+1.I am making a boxing game that is close to WII"s game punch out.I want my game to be accesiible on any platform so anyone can play it.
+
+2. The actions i want the player to do if fight other boxers also including big time boxers like Ryan Garcia and Gervonta Davis.
+
+3.When the player completes the Action/fight he will be rewarded a Win to his win/Loss ratio and some money to help him out.
+
+4.When the player loses his Match he will have a loss that adds to his Win/loss ration
+
+5.Three games that are like my game is punch out,Thunder ray ,and Baki Hanma: blood arena.
