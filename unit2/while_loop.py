@@ -39,8 +39,9 @@ guessingGame():
 def passwordreset():
     correctpassword = 6656
     attempts = 4
+    userPassowordAttempt = input()
 
-    print("PASSWORD reset has started")
+    print("Please login with your password")
     userguess = input("Guess the four numbers of the password")
 
     while userGuess != correctpassword:
