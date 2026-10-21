@@ -34,3 +34,19 @@ def guessingGame():
     print("you guessed correct lil nigy")
 
 guessingGame():
+
+
+def passwordreset():
+    correctpassword = 6656
+    attempts = 4
+
+    print("PASSWORD reset has started")
+    userguess = input("Guess the four numbers of the password")
+
+    while userGuess != correctpassword:
+          print("inccorrect please try again")
+          attempts +=1
+          print("guess attepmts:" + str(attempts)
+          userguess = int(input("please guess the right password 6656") 
+
+       print("you guesses correct kid")
