@@ -48,6 +48,9 @@ def passwordreset():
           print("inccorrect please try again")
           attempts +=1
           print("guess attepmts:" + str(attempts)
-          userguess = int(input("please guess the right password 6656") 
+          userguess = int(input("please guess the right password 6656")
+          attempts-= 1 
+          print("you have this many attempts left: " +str(attempts))
+          print("after the fourth attempt the program stops")
 
        print("you guesses correct kid")
